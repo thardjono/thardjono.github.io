@@ -1,0 +1,92 @@
+h1 {
+    text-align: center;
+    margin: auto;
+    font-size: 40
+}
+
+h2{
+  text-align: center;
+  margin: 1.5;
+  font-family: 'futura', sans-serif;
+}
+title {
+  font-family: 'Times', sans-serif;
+  font-size: 20px;
+  color: black
+  margin: 1.5
+  text-align: left
+}
+
+blockquote{
+  font-family: 'futura', sans-serif;
+  font-size: 100px;
+  text-align: center;
+}
+
+p.date {
+    text-align: center;
+}
+
+p.main {
+    text-align: center;
+}
+
+body {
+margin: 10;
+font-family: futura;
+font-weight: 30;
+line-height: 1.6
+text-indent: 1.6
+text-align: justify;
+}
+body{
+  div
+  width: 200px;
+  padding: 20px;
+  border: 5px white;
+  margin: 0;
+}
+
+blockquote{
+padding:0px 0px 2px 1px;
+margin:0px 0px 2px 1px;
+border-left: 1px dotted #555555;
+}
+
+.container{
+width: 80%
+margin: 0 auto;
+
+}
+body {
+background-color:{color:background};
+background-image:url({image:Background});
+background-attachment: fixed;
+background-repeat: repeat;
+}
+
+.topnav {
+    display: block;
+    color: black;
+    text-align: right;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.topnav a {
+    float: left;
+    color: black;
+    text-align: justify;
+    padding: 0px 10px;
+    text-decoration: none;
+    font-size: 21px;
+    }
+.topnav input[type=text] {
+    float: right;
+    padding: 2px;
+    border: 7px solid;
+    margin-top: 15px;
+    margin-right: 16px;
+    font-size: 17px;
+}
